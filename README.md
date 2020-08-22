@@ -1,2 +1,2 @@
 # ProgramandoViagens-Site
- Página criada com o tema de sugestões para viagens, referente ao projeto de aplicação para internet, do 1º semestre do curso de Ciencias da Computação.
+ Página de sugestões de viagens, criada na realização do projeto de aplicação para internet com o tema de ramo de viagens, referente ao 1º semestre do curso de Ciências da Computação.
